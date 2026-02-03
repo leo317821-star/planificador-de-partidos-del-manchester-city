@@ -5,7 +5,6 @@ PLANIFICADOR INTELIGENTE DE EVENTOS - ETIHAD STADIUM
 Sistema de gestión de partidos de fútbol con control de recursos
 y restricciones de disponibilidad.
 
-Autor: Asistente IA
 Dominio: Estadio de Fútbol (Etihad Stadium - Manchester City FC)
 
 Restricciones implementadas:
